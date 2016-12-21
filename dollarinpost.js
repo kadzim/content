@@ -1,6 +1,6 @@
 <script type='text/javascript'>//<![CDATA[
 
-function changeLink(){var e=Base64.decode(res);window.open(e,"_blank")}var currentURL=location.href,str=currentURL,res=str.replace("http://godollarin.blogspot.sg/2016/12/sejarah-dan-perkembangan-operating.html?url="aHR0cCUzQS8vZ29kb2xsYXJpbi5ibG9nc3BvdC5zZy8yMDE2LzEyL3NlamFyYWgtZGFuLXBlcmtlbWJhbmdhbi1vcGVyYXRpbmcuaHRtbA==,"");$(".Visit_Link").hide();
+function changeLink(){var e=Base64.decode(res);window.open(e,"_blank")}var currentURL=location.href,str=currentURL,res=str.replace("http://godollarin.blogspot.com?url="aHR0cCUzQS8vZ29kb2xsYXJpbi5ibG9nc3BvdC5jb20=,"");$(".Visit_Link").hide();
 
 function generate(){var e=document.getElementById("download"),n=document.getElementById("btn"),t=document.getElementById("daplong"),r=(document.getElementById("download").href,7),l=document.createElement("span");e.parentNode.replaceChild(l,e);var o;o=setInterval(function(){r--,0>r?(l.parentNode.replaceChild(e,l),clearInterval(o),t.style.display="none",e.style.display="inline"): (l.innerHTML="<h2>Link will appear in "+(""+r)+" Second</h2>",n.style.display="none")},1e3)}//]]></script>
 
