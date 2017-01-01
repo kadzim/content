@@ -10,6 +10,6 @@ function generate(){var e=document.getElementById("download"),n=document.getElem
 
 <script type="text/javascript">//<![CDATA[
 
-function changeLink(){var e=Base64.decode(res);window.open(e,"_blank")}var currentURL=location.href,str=currentURL,res=str.replace("http://godollarin.blogspot.sg/2016/12/sejarah-dan-perkembangan-operating.html?url="aHR0cCUzQS8vZ29kb2xsYXJpbi5ibG9nc3BvdC5zZy8yMDE2LzEyL3NlamFyYWgtZGFuLXBlcmtlbWJhbmdhbi1vcGVyYXRpbmcuaHRtbA==,"");document.write('<button id="download" class="Visit_Link" onclick="changeLink();" style="display: none;text-align:justify;margin-bottom:3px;">Visit Link</button>');
+function changeLink(){var e=Base64.decode(res);window.open(e,"_blank")}var currentURL=location.href,str=currentURL,res=str.replace("http://godollarin.blogspot.com/p/go.html?url="aHR0cCUzQS8vZ29kb2xsYXJpbi5ibG9nc3BvdC5zZy8yMDE2LzEyL3NlamFyYWgtZGFuLXBlcmtlbWJhbmdhbi1vcGVyYXRpbmcuaHRtbA==,"");document.write('<button id="download" class="Visit_Link" onclick="changeLink();" style="display: none;text-align:justify;margin-bottom:3px;">Visit Link</button>');
 
 onload:generate();//]]></script></center>
